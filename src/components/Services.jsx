@@ -91,7 +91,7 @@ const Services = () => {
                             key={imgIndex}
                             src={img}
                             alt={`${name} ${imgIndex + 1}`}
-                            className="w-10 h-10"
+                            className="w-8 h-8 rounded-full animate-bounce"
                           />
                         ))}
                       </div>
