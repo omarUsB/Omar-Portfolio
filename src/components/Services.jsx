@@ -16,6 +16,7 @@ import tailwind from '../assets/tailwind.png';
 import laravel from '../assets/laravel.png';
 import bug from '../assets/bug.png';
 import jira from '../assets/jira.png';
+import sass from '../assets/sass.png';
 
 const services = [
   {
@@ -26,7 +27,7 @@ const services = [
   },
   {
     name: 'Front-End Developer',
-    images: [html, css, react, next, js,bootstrap,tailwind],
+    images: [html, css, react, next, js,bootstrap,tailwind,sass],
     description: "Developing front-end interfaces",
     link: 'https://github.com/omarUsB',
   },
