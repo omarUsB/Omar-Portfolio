@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Omar-Portfolio/static/css/main.03c8bcd3.css",
+    "main.js": "/Omar-Portfolio/static/js/main.f71ecdfd.js",
+    "static/media/about.png": "/Omar-Portfolio/static/media/about.fe3edeafdc21596a2cc8.png",
+    "static/media/goat.png": "/Omar-Portfolio/static/media/goat.37b05654ef70d5761af9.png",
+    "static/media/site-bg.jpg": "/Omar-Portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/Omar-Portfolio/static/media/portfolio-img1.78203b358b54020604bf.png",
+    "static/media/services.png": "/Omar-Portfolio/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/commerce.png": "/Omar-Portfolio/static/media/commerce.b1457cb5d4821577b49e.png",
+    "static/media/laravel.png": "/Omar-Portfolio/static/media/laravel.c57b1d40668e99e7b7ac.png",
+    "static/media/portfolio-img3.png": "/Omar-Portfolio/static/media/portfolio-img3.1d27a483c679699b2c26.png",
+    "static/media/tailwind.png": "/Omar-Portfolio/static/media/tailwind.05901574ed53a7ffe3f4.png",
+    "static/media/portfolio-img2.png": "/Omar-Portfolio/static/media/portfolio-img2.66d6036dac7304c7e880.png",
+    "static/media/logo.png": "/Omar-Portfolio/static/media/logo.3db7182c377bbd623a4d.png",
+    "static/media/bug.png": "/Omar-Portfolio/static/media/bug.8f95aa6287f21664721b.png",
+    "static/media/img.jpg": "/Omar-Portfolio/static/media/img.18ad28b3f97e82efe923.jpg",
+    "static/media/php.png": "/Omar-Portfolio/static/media/php.4990580e9b615aeebb1f.png",
+    "static/media/sass.png": "/Omar-Portfolio/static/media/sass.cfa1843fb43efcc26924.png",
+    "static/media/jira.png": "/Omar-Portfolio/static/media/jira.08d3740a6567ac7ed8ad.png",
+    "static/media/next.png": "/Omar-Portfolio/static/media/next.744888da0f9c2b4777b5.png",
+    "static/media/mongo.png": "/Omar-Portfolio/static/media/mongo.3267327599a9011812b1.png",
+    "static/media/sql.png": "/Omar-Portfolio/static/media/sql.86cdb54cc5fc9c392ebd.png",
+    "static/media/react.png": "/Omar-Portfolio/static/media/react.32b62ce59cc5b14b6f6a.png",
+    "static/media/figma.png": "/Omar-Portfolio/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/html.png": "/Omar-Portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/css-3.png": "/Omar-Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/bootstrap.png": "/Omar-Portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/js.png": "/Omar-Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Omar-Portfolio/index.html",
+    "main.03c8bcd3.css.map": "/Omar-Portfolio/static/css/main.03c8bcd3.css.map",
+    "main.f71ecdfd.js.map": "/Omar-Portfolio/static/js/main.f71ecdfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c8bcd3.css",
+    "static/js/main.f71ecdfd.js"
+  ]
+}
